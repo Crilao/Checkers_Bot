@@ -3,7 +3,7 @@
 ## Sobre o projeto
 
 ### Nome do grupo:
-    Rapaziada do Bem
+Rapaziada do Bem
 ### Integrantes:
   + Bruno Rossetto Pereira        214066
   + Cristiano José Furlan         214660
